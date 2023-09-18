@@ -15,7 +15,7 @@
   "author": "LMZ",
   "license": "MIT",
   "devDependencies": {
-    "electron": ">=22.0.0"
+    "electron": ">=22.3.24"
   },
   "dependencies": {
     "bunyan": "^1.8.5"
